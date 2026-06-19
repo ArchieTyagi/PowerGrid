@@ -1,1 +1,3 @@
-# PowerGrid
+# PowerGrid ⚡
+
+A full-stack smart-meter analytics platform...
